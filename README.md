@@ -10,7 +10,7 @@
 * 애플리케이션 유틸(AppUtils)
   * 경주할 자동차 입력
   * 경주 시도할 횟수 입력
-* 유효성 검사 유틸(ValidationUtils)
+* 유효성 검사 유틸(ValidateUtils)
 * 자동차(RacingCar)
   * 생성
     * 이름 등록
